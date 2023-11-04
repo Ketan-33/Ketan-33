@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Ketan Pardhi 👋
 
 ## About Me
 
