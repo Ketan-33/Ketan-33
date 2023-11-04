@@ -15,5 +15,5 @@ Here are a few things that describe me:
 I'm always interested in connecting with fellow professionals and enthusiasts. Feel free to reach out to me through:
 
 - Email: ketanpardhi04@gmail.com
-- LinkedIn: linkedin.com/in/ketan-pardhi-635597267
+- LinkedIn: https://www.linkedin.com/in/ketan-pardhi-635597267
 
