@@ -1,25 +1,19 @@
-package main
+# Hello, I'm [Your Name] 👋
 
-import (
-	"fmt"
-)
+## About Me
 
-type Bio map[string]string
+I am a student with a passion for Engineering. I thrive on tackling challenges and turning ideas into tangible solutions. My journey in coding world has been driven by curiosity and a desire to make a positive impact.
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
+Here are a few things that describe me:
 
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
-		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
-	}
-}
+- 🎓 Graduating in 2026 with a degree in B.Tech(Computer Science and Engineering (Data Science))
+- 💡 Continuously exploring new technologies and learning new skills
+.
+
+## Get in Touch
+
+I'm always interested in connecting with fellow professionals and enthusiasts. Feel free to reach out to me through:
+
+- Email: ketanpardhi04@gmail.com
+- LinkedIn: linkedin.com/in/ketan-pardhi-635597267
+
