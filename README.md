@@ -6,7 +6,7 @@ I am a student with a passion for Engineering. I thrive on tackling challenges a
 
 Here are a few things that describe me:
 
-- 🎓 Graduating in 2026 with a degree in B.Tech(Computer Science and Engineering (Data Science))
+- 🎓 Graduating in 2026 with a degree in B.Tech(CSE Data Science)
 - 💡 Continuously exploring new technologies and learning new skills
 .
 
