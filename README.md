@@ -5,7 +5,7 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🎓 &nbsp; Studying Computer Science and Engineering (3rd year).
+  - 🎓 &nbsp; Studying Computer Science and Engineering (final year).
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 🌱 &nbsp; Interested in backend architectures, frontend development, and DevOps.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
